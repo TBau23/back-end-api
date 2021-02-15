@@ -1,4 +1,4 @@
-# back-end-api
+# back-end
 
 ## Endpoints
 
